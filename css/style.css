@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background: url(../images/backgrounds/architecture.jpg) center no-repeat;
+  background: teal;
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
@@ -41,8 +41,9 @@ h2 {
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 2em;
   margin-top: .5em;
+  color: blue;
 }
 
 img {
